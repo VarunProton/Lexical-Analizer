@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+    int a = 67;
+    float b = 11.5;
+    printf("The no is %d", a);
+    return 0;
+}
